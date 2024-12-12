@@ -1,6 +1,6 @@
 {
   "gitSyncId": "075acc75-72ab-4f74-8f6f-6688ef2bd4cc_1f279f8b-228d-48f2-b2b5-9d4dd61b30f1",
-  "id": "snowflake_SelectQuery",
+  "id": "snowflake_SelectQueryNew",
   "pluginId": "snowflake-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -23,7 +23,7 @@
       "pluginId": "snowflake-plugin"
     },
     "executeOnLoad": true,
-    "name": "SelectQuery",
+    "name": "SelectQueryNew",
     "pageId": "snowflake",
     "userSetOnLoad": true
   }
