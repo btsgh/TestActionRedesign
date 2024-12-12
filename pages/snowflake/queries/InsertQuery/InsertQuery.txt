@@ -1,0 +1,28 @@
+INSERT INTO PUBLIC.USERS (
+	CREATEDAT,
+	AVATAR,
+	STATUS,
+	ADDRESS,
+	EMAIL,
+	ID,
+	PHONENO,
+	UPDATEDAT,
+	DOB,
+	ROLE,
+	NAME,
+	GENDER
+)
+VALUES (
+	'{{insert_form.formData.CREATEDAT}}',
+	'{{insert_form.formData.AVATAR}}',
+	'{{insert_form.formData.STATUS}}',
+	'{{insert_form.formData.ADDRESS}}',
+	'{{insert_form.formData.EMAIL}}',
+	'{{insert_form.formData.ID}}',
+	'{{insert_form.formData.PHONENO}}',
+	'{{insert_form.formData.UPDATEDAT}}',
+	'{{insert_form.formData.DOB}}',
+	'{{insert_form.formData.ROLE}}',
+	'{{insert_form.formData.NAME}}',
+	'{{insert_form.formData.GENDER}}'
+);

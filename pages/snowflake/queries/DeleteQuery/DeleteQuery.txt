@@ -1,0 +1,2 @@
+DELETE FROM PUBLIC.USERS
+  WHERE CREATEDAT = {{data_table.triggeredRow.CREATEDAT}};

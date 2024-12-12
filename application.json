@@ -24,6 +24,10 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "snowflake",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
