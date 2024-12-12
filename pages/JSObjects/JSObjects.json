@@ -1,11 +1,12 @@
 {
   "gitSyncId": "3ab1994c-d75c-499d-af5f-e545957c8c2f_0dfdc4c8-6102-49a5-8954-3eed9d44ff45",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 380,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "JSObjects",
+    "slug": "jsobjects"
   }
 }
