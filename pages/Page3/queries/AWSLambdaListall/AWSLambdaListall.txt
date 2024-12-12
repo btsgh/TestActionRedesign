@@ -1,0 +1,1 @@
+{"body":{"data":""},"command":{"data":"INVOKE_FUNCTION"},"functionName":{"data":"TestFunction"},"invocationType":{"data":"RequestResponse"}}

@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "075acc75-72ab-4f74-8f6f-6688ef2bd4cc_98cfcebf-4dd9-4bc4-bce2-97e738928add",
+  "id": "Airtable_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Airtable",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

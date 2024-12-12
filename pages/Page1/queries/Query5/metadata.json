@@ -70,6 +70,9 @@
             "data": ""
           }
         },
+        "invocationType": {
+          "data": "RequestResponse"
+        },
         "smartSubstitution": {
           "data": false
         },
