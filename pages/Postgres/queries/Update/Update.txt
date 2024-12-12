@@ -1,0 +1,4 @@
+UPDATE public."a" 
+SET
+    "personid" = 11
+WHERE "personid" = 10 AND "lastname" = 'Smith'; -- Fixed the condition with 'AND'

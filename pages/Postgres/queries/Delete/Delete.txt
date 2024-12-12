@@ -1,0 +1,7 @@
+DELETE FROM public."a"
+WHERE ctid = (
+  SELECT ctid
+  FROM public."a"
+  WHERE "personid" = 8 AND "lastname" = 'Shetty'
+  LIMIT 1
+);

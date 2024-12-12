@@ -24,6 +24,14 @@
     {
       "id": "RestAPI",
       "isDefault": false
+    },
+    {
+      "id": "Postgres CRUD",
+      "isDefault": false
+    },
+    {
+      "id": "Postgres",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
