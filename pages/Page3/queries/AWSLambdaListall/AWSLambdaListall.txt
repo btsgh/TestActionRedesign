@@ -1,1 +1,1 @@
-{"body":{"data":""},"command":{"data":"INVOKE_FUNCTION"},"functionName":{"data":"TestFunction"},"invocationType":{"data":"RequestResponse"}}
+{"body":{"data":""},"command":{"data":"LIST_FUNCTIONS"},"functionName":{"data":"TestFunction","jsonData":"","viewType":"component","componentData":"TestFunction"},"invocationType":{"data":"RequestResponse","jsonData":"","viewType":"component","componentData":"RequestResponse"}}
