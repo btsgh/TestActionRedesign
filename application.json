@@ -28,6 +28,10 @@
     {
       "id": "snowflake",
       "isDefault": false
+    },
+    {
+      "id": "Airtable",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
