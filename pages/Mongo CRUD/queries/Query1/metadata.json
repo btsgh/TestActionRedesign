@@ -9,7 +9,7 @@
       "formData": {
         "aggregate": {
           "arrayPipelines": {
-            "data": "[ {\"$sort\" : {\"_id\": 1} } ]"
+            "data": "[ {\"$sort\" : {\"revenue\": 1} } ]"
           },
           "limit": {
             "data": "10"
@@ -96,7 +96,7 @@
       "pluginId": "mongo-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "Query1",
     "pageId": "Mongo CRUD",
     "userSetOnLoad": false

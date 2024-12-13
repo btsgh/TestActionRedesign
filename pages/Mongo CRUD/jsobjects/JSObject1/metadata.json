@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "80968e28-a5cc-4694-9502-a0014edb03e5_0799d3a5-d727-4caa-85c0-d64f771fa5eb",
+  "id": "Mongo CRUD_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Mongo CRUD",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "gitSyncId": "80968e28-a5cc-4694-9502-a0014edb03e5_90198e0b-9f57-4e75-b9dc-fae33d106323",
-  "id": "Mongo CRUD_Count",
+  "id": "Mongo_Count",
   "pluginId": "mongo-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -98,7 +98,7 @@
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
     "name": "Count",
-    "pageId": "Mongo CRUD",
+    "pageId": "Mongo",
     "userSetOnLoad": false
   }
 }
