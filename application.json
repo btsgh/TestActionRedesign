@@ -32,6 +32,18 @@
     {
       "id": "Postgres",
       "isDefault": false
+    },
+    {
+      "id": "Mongo CRUD",
+      "isDefault": false
+    },
+    {
+      "id": "Mongo",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

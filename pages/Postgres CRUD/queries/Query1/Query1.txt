@@ -1,0 +1,2 @@
+SELECT * FROM public."a"
+WHERE "lastname" = {{data_table.searchText}}

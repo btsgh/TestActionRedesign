@@ -1,0 +1,85 @@
+{
+  "gitSyncId": "80968e28-a5cc-4694-9502-a0014edb03e5_b6da7764-5b9d-4e23-a058-e23fd0d67fb2",
+  "id": "Page1_Query1",
+  "pluginId": "Appsmith AI",
+  "pluginType": "AI",
+  "unpublishedAction": {
+    "actionConfiguration": {
+      "encodeParamsToggle": true,
+      "formData": {
+        "aiChatAssistant": {
+          "input": {
+            "cursor": "{{this.params.cursor}}",
+            "instructions": "You are an AI assistant that helps Appsmith developers build and optimize their applications. When developers ask for assistance, recognize their requests and provide clear, actionable guidance on using Appsmith features, best practices, and troubleshooting. Offer code snippets, explanations, and examples to facilitate the development process.\n\nExample requests you might handle:\n- \"How do I connect my Appsmith application to a PostgreSQL database?\"\n- \"Can you provide a sample API integration for fetching user data?\"\n- \"What are the best practices for using custom JavaScript in Appsmith?\"\n\nEnsure your responses are relevant to Appsmith development and help users achieve their application goals effectively.",
+            "limit": "{{this.params.limit}}",
+            "message": "{{this.params.message}}",
+            "model": "gpt-4o-mini",
+            "provider": "openai",
+            "requestType": "{{this.params.requestType || 'getThreads'}}",
+            "threadId": "{{this.params.threadId}}",
+            "username": "{{this.params.appsmithUsername}}",
+            "widgetId": "{{this.params.widgetId}}"
+          }
+        },
+        "fileIds": {
+          "data": []
+        },
+        "imageCaption": {
+          "instructions": {
+            "data": ""
+          }
+        },
+        "imageClassify": {
+          "instructions": {
+            "data": ""
+          }
+        },
+        "imageEntity": {
+          "instructions": {
+            "data": ""
+          }
+        },
+        "textClassify": {
+          "instructions": {
+            "data": ""
+          }
+        },
+        "textEntity": {
+          "instructions": {
+            "data": ""
+          }
+        },
+        "textGeneration": {
+          "input": {
+            "data": ""
+          }
+        },
+        "textSummary": {
+          "input": {
+            "data": "The iPhone 15, Apple's latest entry in its iconic smartphone series, is a testament to the company's continued innovation and commitment to user experience. This review delves into its design, performance, camera, battery life, and unique features, offering a comprehensive overview for both tech enthusiasts and the average consumer. The iPhone 15 sports a sleek design that follows Apple's philosophy of elegance and simplicity. The chassis, a harmonious blend of glass and stainless steel, feels robust yet luxurious. It’s slightly lighter than its predecessor, making it more comfortable to hold for extended periods. The standout design element is the bezel-less OLED display, which offers an immersive viewing experience. The IP68 rating ensures durability against dust and water, making it a reliable companion for everyday use. The Super Retina XDR display on the iPhone 15 is a visual feast. The colors are vibrant, and the blacks are deep, thanks to the OLED technology. With a 120Hz refresh rate, the responsiveness is fluid, whether scrolling through web pages or playing high-intensity games. The brightness levels are impressive, offering excellent visibility even in direct sunlight.\nAudio quality has also seen an upgrade. The speakers deliver richer and more detailed sound, enhancing the overall multimedia experience. Whether it's watching movies or playing games, the audio is immersive and well-balanced. At the heart of the iPhone 15 is Apple's new A17 Bionic chip, which sets a new benchmark in smartphone performance. Coupled with improved machine learning capabilities and a more efficient GPU, it handles everything from everyday tasks to demanding applications with ease. The iOS integration is seamless, providing a user-friendly and intuitive interface. The camera system on the iPhone 15 is where Apple has made significant strides. The new sensor-shift optical image stabilization is a game-changer, particularly in low-light conditions. The images are sharp, with excellent dynamic range and color accuracy. The Night mode is more refined, capturing stunning details in dark environments.\nThe video capabilities are equally impressive. The Cinematic mode, which allows for depth-of-field adjustments, brings a professional touch to video recordings. The ProRAW and ProRes formats cater to professional photographers and videographers who demand higher control and quality. Battery life has always been a strong suit for iPhones, and the iPhone 15 continues this tradition. Even with heavy usage, the phone comfortably lasts a full day, thanks to the efficiency of the A17 chip and the larger battery. The fast charging and MagSafe wireless charging are convenient, though the absence of a charging brick in the box may be a point of contention for some users.The iPhone 15 introduces some noteworthy features. The integration of satellite connectivity for emergency services is a significant safety addition. The improved Face ID works flawlessly, even with masks, making it more practical in current times. The iPhone 15 is a remarkable smartphone that balances innovation with user experience. While it follows the evolutionary path rather than a revolutionary leap, the refinements in camera technology, performance, and unique features like satellite connectivity make it a compelling choice for anyone looking to upgrade. The higher price point might be a hurdle, but for those invested in the Apple ecosystem, the iPhone 15 offers a seamless and premium experience that's hard to match."
+          },
+          "instructions": {
+            "data": "Summarise the phone review in less than 250 words and highlight the key features."
+          }
+        },
+        "usecase": {
+          "data": "TEXT_SUMMARY"
+        }
+      },
+      "paginationType": "NONE",
+      "timeoutInMillisecond": 60000
+    },
+    "confirmBeforeExecute": false,
+    "datasource": {
+      "id": "Untitled datasource 4",
+      "isAutoGenerated": false,
+      "name": "Untitled datasource 4",
+      "pluginId": "Appsmith AI"
+    },
+    "dynamicBindingPathList": [],
+    "executeOnLoad": false,
+    "name": "Query1",
+    "pageId": "Page1",
+    "userSetOnLoad": false
+  }
+}

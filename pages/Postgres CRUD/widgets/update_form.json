@@ -352,7 +352,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "personid",
           "position": 0,
-          "sourceData": 7
+          "sourceData": 6
         },
         "salary": {
           "accentColor": "{{((sourceData, formData, fieldState) => ((appsmith.theme.colors.primaryColor)))(update_form.sourceData, update_form.formData, update_form.fieldState)}}",
@@ -374,7 +374,7 @@
           "labelTextSize": "0.875rem",
           "originalIdentifier": "salary",
           "position": 3,
-          "sourceData": 1000
+          "sourceData": 120000
         }
       },
       "dataType": "object",
