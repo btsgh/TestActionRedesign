@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "80968e28-a5cc-4694-9502-a0014edb03e5_daa326d1-fbe0-4ca0-8339-672a1a09f8ae",
-  "id": "Gsheet CRUD_SelectQuery",
+  "gitSyncId": "80968e28-a5cc-4694-9502-a0014edb03e5_246a9b95-e7b5-47b6-9d48-ade47ac922f1",
+  "id": "Page1_SelectQuery",
   "pluginId": "google-sheets-plugin",
   "pluginType": "SAAS",
   "unpublishedAction": {
@@ -156,9 +156,9 @@
       "pluginId": "google-sheets-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "name": "SelectQuery",
-    "pageId": "Gsheet CRUD",
-    "userSetOnLoad": true
+    "pageId": "Page1",
+    "userSetOnLoad": false
   }
 }
