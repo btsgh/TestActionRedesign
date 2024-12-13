@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "075acc75-72ab-4f74-8f6f-6688ef2bd4cc_63df9f1a-d1fc-4d64-8ffc-bc425d8d6bdf",
-  "id": "Page3_AWSLambdaListall",
+  "gitSyncId": "075acc75-72ab-4f74-8f6f-6688ef2bd4cc_42108e19-58fb-4d00-bad8-22600041523d",
+  "id": "Page2_AWSLambdaListall",
   "pluginId": "AWS Lambda",
   "pluginType": "REMOTE",
   "unpublishedAction": {
@@ -20,7 +20,7 @@
     "executeOnLoad": false,
     "fullyQualifiedName": "AWSLambdaListall",
     "name": "AWSLambdaLista",
-    "pageId": "Page3",
+    "pageId": "Page2",
     "userSetOnLoad": false
   }
 }
