@@ -28,6 +28,10 @@
     {
       "id": "snowflake",
       "isDefault": false
+    },
+    {
+      "id": "SMTP",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
